@@ -1,0 +1,19 @@
+# Build folders
+build-linux/
+build-linux-release/
+build-debug/
+build-release/
+
+# Executables and compiled objects
+*.o
+*.so
+*.a
+*.exe
+gview
+.DS_Store
+.cache/
+
+# Logs and temp
+*.log
+compile_commands.json
+
