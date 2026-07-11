@@ -34,4 +34,4 @@ A lightweight, standalone visual GGUF metadata and tensor inspector. It function
 cmake --preset build-release
 
 # 2. Build the project
-cmake --build build-release
+cmake --build --preset build-release
